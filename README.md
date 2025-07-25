@@ -1,6 +1,6 @@
 # FastDLP - Fast Data Loss Prevention
 
-A high-performance Rust implementation of data loss prevention (DLP) system, translated from the Python openDLP project.
+A high-performance Rust implementation of data loss prevention (DLP) system
 
 ## Overview
 
@@ -215,7 +215,6 @@ Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for detai
 
 ## Acknowledgments
 
-- Based on the original [openDLP](https://github.com/hitsz-ids/openDLP) Python project
 - Inspired by various DLP and regex generation research
 - Built with the Rust ecosystem's excellent libraries
 
